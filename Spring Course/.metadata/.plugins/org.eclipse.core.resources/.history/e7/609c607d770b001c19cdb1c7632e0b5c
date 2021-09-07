@@ -1,0 +1,16 @@
+package com.jessereinhalter.springdemo;
+
+public class HelloSpringApp {
+
+	public static void main(String[] args) {
+	
+		// load the Spring config file
+		
+		// retrieve a bean from the Spring container
+		
+		// call methods on the bean
+		
+		// close the context
+	}
+
+}

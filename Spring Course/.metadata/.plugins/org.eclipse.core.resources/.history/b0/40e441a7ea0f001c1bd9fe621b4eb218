@@ -1,0 +1,12 @@
+package com.jessereinhalter.springdemo.mvc;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class SillyController {
+
+	public String displayTheForm() {
+		return "sill";
+	}
+	
+}

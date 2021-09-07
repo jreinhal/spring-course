@@ -1,0 +1,17 @@
+package com.jessereinhalter.springdemo;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class BeanScopeDemoApp {
+
+	public static void main(String[] args) {
+		
+		// load the Spring config file
+		ClassPathXmlApplicationContext context =
+				new ClassPathXmlApplicationContext()
+		
+		// retrieve bean from the Spring container
+
+	}
+
+}

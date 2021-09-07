@@ -1,0 +1,11 @@
+package com.jessereinhalter.springdemo;
+
+public class TrachCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

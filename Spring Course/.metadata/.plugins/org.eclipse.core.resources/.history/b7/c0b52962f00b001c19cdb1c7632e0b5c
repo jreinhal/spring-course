@@ -1,0 +1,17 @@
+package com.jessereinhalter.springdemo;
+
+public class SetterDemoApp {
+
+	public static void main(String[] args) {
+		
+		// load the Spring config file
+		
+		// retrieve the bean from spring container
+		
+		// call methods on the bean
+		
+		// close the context
+
+	}
+
+}
